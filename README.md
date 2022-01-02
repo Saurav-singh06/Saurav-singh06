@@ -9,6 +9,10 @@
 <li>💬 Ask me about React Js and Android.</li>
 <li>😄 All of my projects are available at https://github.com/Saurav-singh06</li>
   </ul>
+  
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-singh06&layout=compact" />
+</p>
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
