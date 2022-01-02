@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Saurav Singh.</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username="Saurav-singh06" alt="Saurav-singh06" /> </p>
 <h1 align="center">🧐 About</h1>
 <ul>
   <li>🧑 I'm a competitive programmer and a web developer.</li>
