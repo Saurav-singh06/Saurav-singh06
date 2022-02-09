@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-singh06&layout=compact" />
 </p>
 
-[Saurav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Saurav-singh06&theme=rogue)
+![Saurav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Saurav-singh06&theme=rogue)
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
