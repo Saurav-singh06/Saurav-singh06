@@ -15,8 +15,6 @@
 
 ![Saurav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Saurav-singh06&theme=rogue)
 
-<img align="left" alt="Saurav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saurav-singh06&show_icons=true&hide_border=true" />
-
 <h2 align="center">Connect with me</h2>
 <div align="center">
 <a href="https://github.com/Saurav-singh06" target="_blank">
