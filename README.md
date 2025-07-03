@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Competitive Programmer | 👨‍💻 Full Stack Developer | 💡 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB+%7C+Android+%F0%9F%93%B1;Loves+building+real+world+projects+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer+%F0%9F%92%BB;Angular+%7C+GoLang+%7C+MongoDB+%7C+Android+%F0%9F%93%B1;Loves+building+real+world+projects+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -14,7 +15,7 @@
 - 🌱 Learning **Android Studio with Kotlin** to build mobile-first apps.
 - 👯 Looking for **collaborators** to build real-world applications.
 - 💬 Ask me anything about **React.js**, **Node.js**, or **Android**.
-- 📫 Reach me at: `sauravsingh.rathore06@gmail.com`
+- 📫 Reach me at: `sauravsingh85079@gmail.com`
 - 📁 Check out all my work at: [GitHub Portfolio](https://github.com/Saurav-singh06)
 
 ---
